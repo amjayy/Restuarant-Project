@@ -1,0 +1,21 @@
+.social_media_bar{
+    background-color: #DF473A;
+    height:20px;
+}
+.social_media_bar  li{
+display: inline;
+}
+.nav_bar{
+    background-image:linear-gradient(#DF473A,#F26053, #DF473A);
+    
+}
+.nav_bar li{
+    display: inline;
+    margin:5px;
+}
+h1,h2,h3{
+    font-family: 'Ruda';
+}
+.search_bar{
+    background-color: #FFF8CE;
+}

@@ -1,0 +1,96 @@
+.social_media_bar{
+    background-color: #DF473A;
+    height:30px;
+}
+.social_media_bar  li{
+display: inline;
+margin:5px;
+color: #FFF8CE;
+float:right;
+}
+.social_media_bar a{
+    color: #FFF8CE;
+}
+.nav_bar{
+    background-image:linear-gradient(#F26053, #DF473A);
+    
+}
+.nav_bar li{
+    display: inline;
+    margin:10px;
+    color:#FFF8CE;
+    
+}
+.nav_bar a{
+    color:#FFF8CE;
+}
+h1,h2,h3{
+    font-family: 'Ruda';
+}
+.search_bar{
+    background-color: #FFF8CE;
+}
+.picture_group_1{
+    background-color: #F5EEDC;
+}
+.picture_group_2{
+    background-color: #F5EEDC;
+}
+.client_logo{
+    background-color: #66635E;
+    height:50px;
+    width: 100%;
+}
+body{
+    position: relative;
+}
+@media screen and  (max-width:493px) {
+    .social_media_bar{
+    background-color: #DF473A;
+    height: 20px;
+    position: absolute;
+    left: 90px
+    }
+}
+@media screen and  (max-width:360px) {
+    .social_media_bar{
+    background-color: #DF473A;
+    height: 20px;
+    position: absolute;
+    left: 90px
+    }
+}
+h1,h2,h3{
+    font-family: 'Ruda';
+}
+.Restuarant_bar{
+    background-color: #5C5954;
+}
+.info{
+    background-color: #413E39;
+    color:white;
+}
+.reservations{
+    background-color: #F9F5EA;
+}
+.nav_bar a:hover {
+    color:black ;
+    background-color:  #FFF8CE;
+    padding:7.5px;
+    border-radius: 5px;
+  }
+.search_bar{
+    float:right;
+}
+.icon_3{
+    color:#999E03;
+}
+.icon_2{
+    color:#999E03;
+}
+.icon_1{
+    color:#999E03;
+}
+
+
+
